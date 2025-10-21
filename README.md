@@ -6,8 +6,6 @@ Interactive dashboard analyzing training efficiency (cost, completion, satisfact
 - **KPIs:** Total Cost, Avg Cost per Trainee, Completion Rate, Cancellation Rate, Avg Rating  
 - **Visuals:** Cost by Provider, Completed Trainings by Month, slicers by Year/Status/Department/Provider
 
-![Dashboard Preview](dashboard-preview.png)
-
 ## 🧩 Dataset
 Synthetic maritime training data (courses, providers, status, dates, costs).  
 *Note:* “Unknown Provider” reflects missing values kept visible for data-quality transparency.
